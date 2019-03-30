@@ -1,0 +1,65 @@
+commit 4246c1589e94e0e692e0b3628d56e50bb8c701c8
+Author: Gal Ilinetsky <galilinetsky@gmail.com<
+Date:   Tue Jun 14 15:42:28 2018 +0200
+
+    Gal's commit
+   
+commit ba773782f5a741d8b1209c650e5842fecedc2480
+Author: Shoham Hadad <33935191                                   + ShohamHadad@users.noreply.github.com>
+Date:   Tue Jun 14 13:30:03 2018 +0300
+
+   shoham's commit
+   
+commit ba773782f5a741d8b1209c650e5842fecedc2480
+Author: Shoham Hadad <33935191                                   + ShohamHadad@users.noreply.github.com>
+Date:   Thu Jun 14 12:06:00 2018 +0300
+
+   shoham's commit
+         
+commit 5675e47b1d1e05e04d55c0abb81863321ab64db1
+Author: Gal Ilinetsky <galilinetsky@gmail.com>
+Date:   Wed Jun 13 23:37:17 2018 +0300
+
+    gal's commit
+
+commit 557168f9db2f4432b10c1443b97e59ddc44dccc4
+Author: Gal Ilinetsky <galilinetsky@gmail.com>
+Date:   Wed Jun 13 10:08:56 2018 +0300
+
+    gal's commit
+
+commit ba77388e5a741d7b1509c451e5942fecedc2480
+Author: Shoham Hadad <33935191                                   + ShohamHadad@users.noreply.github.com>
+Date:   Wed Jun 13 23:56:04 2018 +0300
+
+   shoham's commit
+   
+commit 5715e47b1d1e06e04d55c0abb82463921ab64db1
+Author: Gal Ilinetsky <galilinetsky@gmail.com>
+Date:   Tue Jun 12 11:45:12 2018 +0300
+
+    gal's commit
+
+   commit 5675e47a1d1e05e04d55c0abb89863821ab64db1
+Author: Gal Ilinetsky <galilinetsky@gmail.com>
+Date:   Tue Jun 12 15:06:36 2018 +0300
+
+    gal's commit
+
+commit ba773882f5a741d8b1209c651e5942fecedc2480
+Author: Shoham Hadad <33935191                                   + ShohamHadad@users.noreply.github.com>
+Date:   Mon Jun 11 13:25:15 2018 +0300
+
+   shoham's commit
+
+commit ba773782f5a741d8b1209c650e5842fecedc2480
+Author: Shoham Hadad <33935191                                   + ShohamHadad@users.noreply.github.com>
+Date:   Mon Jun 11 20:30:09 2018 +0300
+
+   shoham's commit
+    
+commit 5475e47b1d1e05e04d55c0abb81863321ab64db1
+Author: Gal Ilinetsky <galilinetsky@gmail.com>
+Date:   Sun Jun 10 23:16:56 2018 +0300
+
+    start the web
